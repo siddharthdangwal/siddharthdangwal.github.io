@@ -14,6 +14,6 @@ During my Ph.D., I have interned at the quantum group at IBM Research.
 
 News
 ======
-1. Our paper VarSaw gets accepted at ASPLOS 2024!
-1. Selected as a graduate research intern at IBM Research for summer, 2023!
-1. Our paper, Qcontext, gets accepted at ISCAS 2023!  
+1. Our paper VarSaw gets accepted at ASPLOS 2024.
+1. Selected as an intern in the quantum group at IBM Research for summer, 2023.
+1. Our paper, Qcontext, gets accepted at ISCAS 2023.  
