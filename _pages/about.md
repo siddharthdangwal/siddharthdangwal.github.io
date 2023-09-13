@@ -10,7 +10,7 @@ redirect_from:
 
 I am a third year Ph.D. student in the Department of Computer Science at the University of Chicago. I am advised by Fred Chong. My research includes designing software and architecture for improving the reliability of quantum computers. Before joining UChicago, I graduated from the Indian Institute of Technology Delhi (IITD) with a B.Tech. in Electrical Engineering, specializing in Cognitive Science.
 
-During my Ph.D., I interned at the quantum group at IBM Research.
+During my Ph.D., I have interned at the quantum group at IBM Research.
 
 News
 ======
