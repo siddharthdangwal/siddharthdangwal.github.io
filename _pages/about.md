@@ -14,7 +14,7 @@ During my Ph.D., I have interned at the quantum group at IBM Research.
 
 News
 ======
-1. "EFT-VQA" gets accepted to ISCA 2025
+1. EFT-VQA gets accepted to ISCA 2025
 1. "Interleaved Logical Qubits in Atom Arrays" gets accepted to HPCA 2025
 1. CLAPTON gets accepted to ASPLOS 2025
 1. COMPASS gets accepted to ICRC 2024
