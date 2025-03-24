@@ -20,4 +20,4 @@ News
 1. COMPASS gets accepted to ICRC 2024
 1. VarSaw gets accepted to ASPLOS 2024.
 1. Selected as an intern in the quantum group at IBM Research for summer, 2023.
-1. Our paper, Qcontext, gets accepted at ISCAS 2023.  
+1. Qcontext, gets accepted to ISCAS 2023.  
