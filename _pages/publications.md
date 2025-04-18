@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Publications"
+authors: authors
 permalink: /publications/
 author_profile: true
 ---
