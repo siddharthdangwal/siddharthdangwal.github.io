@@ -1,5 +1,6 @@
 ---
 title: "Varsaw: Application-tailored measurement error mitigation for variational quantum algorithms"
+authors: "Siddharth Dangwal, Gokul Subramanian Ravi, Poulami Das, Kaitlin N Smith, Jonathan Mark Baker, Frederic T. Chong"
 collection: publications
 permalink: /publication/VarSaw
 venue: 'ASPLOS 2023'
