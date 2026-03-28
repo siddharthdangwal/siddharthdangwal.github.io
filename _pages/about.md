@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Computer Science at UChicago. I am advised by Fred Chong. My research includes designing software and architecture for error correction and error mitigation. Before joining UChicago, I graduated from IIT Delhi with a B.Tech. in Electrical Engineering.
+I am a Ph.D. student in the Department of Computer Science at UChicago. I am advised by Fred Chong. Broadly, my research involves designing software and architecture for quantum error correction and mitigation. Before joining UChicago, I graduated from IIT Delhi with a B.Tech. in Electrical Engineering.
 
 During my Ph.D., I have interned at the quantum group at IBM Research.
 
