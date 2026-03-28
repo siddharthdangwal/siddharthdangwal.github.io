@@ -12,6 +12,8 @@ I am a Ph.D. student in the Department of Computer Science at UChicago. I am adv
 
 During my Ph.D., I have interned at the quantum group at IBM Research.
 
+I can be reached at siddharthdangwal "at" uchicago "dot" edu
+
 News
 ======
 1. TUSQ gets accepted to ISCA 2026
