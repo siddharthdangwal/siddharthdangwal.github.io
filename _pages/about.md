@@ -19,6 +19,6 @@ News
 1. "Interleaved Logical Qubits in Atom Arrays" gets accepted to HPCA 2025
 1. CLAPTON gets accepted to ASPLOS 2025
 1. COMPASS gets accepted to ICRC 2024
-1. VarSaw gets accepted to ASPLOS 2024.
-1. I will Intern at IBM Quantum for the summer of 2023!
+1. VarSaw gets accepted to ASPLOS 2023
+1. I will Intern at IBM Quantum for the summer of 2023
 1. Qcontext, gets accepted to ISCAS 2023.  
