@@ -16,6 +16,7 @@ I can be reached at siddharthdangwal "at" uchicago "dot" edu
 
 News
 ======
+1. CoTENN gets accepted to PLDI 2026
 1. TUSQ gets accepted to ISCA 2026
 1. EFT-VQA gets accepted to ISCA 2025
 1. "Interleaved Logical Qubits in Atom Arrays" gets accepted to HPCA 2025
